@@ -1,6 +1,2 @@
 ﻿  calculationFunction.cpp
-C:\Users\270161235\OneDrive - UP Education\Desktop\C++103\calculationFunction\calculationFunction\calculationFunction.cpp(32,10): error C2065: 'number1': undeclared identifier
-C:\Users\270161235\OneDrive - UP Education\Desktop\C++103\calculationFunction\calculationFunction\calculationFunction.cpp(34,10): error C2065: 'number2': undeclared identifier
-C:\Users\270161235\OneDrive - UP Education\Desktop\C++103\calculationFunction\calculationFunction\calculationFunction.cpp(35,3): error C2065: 'result': undeclared identifier
-C:\Users\270161235\OneDrive - UP Education\Desktop\C++103\calculationFunction\calculationFunction\calculationFunction.cpp(35,12): error C2065: 'number1': undeclared identifier
-C:\Users\270161235\OneDrive - UP Education\Desktop\C++103\calculationFunction\calculationFunction\calculationFunction.cpp(35,22): error C2065: 'number2': undeclared identifier
+  calculationFunction.vcxproj -> C:\Users\270161235\OneDrive - UP Education\Desktop\C++103\calculationFunction\Debug\calculationFunction.exe
